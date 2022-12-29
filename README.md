@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 I'm a huge fan of all things open source. I often tinker in cyber security tools, home automation, and general geekery.
-
+<!--
 <a href="https://www.buymeacoffee.com/dcoded"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=dcoded&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 #### My GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=dcode)](https://git.io/streak-stats)
-<!--
+
 **dcode/dcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
